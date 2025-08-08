@@ -7,7 +7,7 @@ public class equal_or_not_equal {
         int x = sc.nextInt();
 
         System.out.println("Enter Second Number : ");
-        int y = sc.nextInt();
+        int y = sc.nextInt(); 
 
         if(x == y){
             System.out.println("They are equal Numbers . ");
